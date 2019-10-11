@@ -1,2 +1,9 @@
 
+<<<<<<< HEAD
 wolf team 
+=======
+bear team 
+>>>>>>> a27b1c358f00bf70e33e3aaca5580dddd480fbfe
+
+Is this merge?
+
