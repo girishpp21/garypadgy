@@ -1,5 +1,5 @@
 This is the file 1 planned to be pushed and merged to remote repo garypadgy on github
 
-File1 will now be tracked in gitremote2/garypadgy folder 
+File1 will now be tracked in gitremote1/garypadgy folder 
 
 
